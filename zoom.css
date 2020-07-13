@@ -1,0 +1,62 @@
+.pr-txt
+{
+font-family:arial,verdana,helvetica;
+text-align:left;
+color:#ffffff;
+font-size:17px;
+font-weight:bold;
+padding-top:3px;
+padding-left:5px;
+padding-bottom:3px;
+}
+
+
+/*for background color*/
+
+.mainnew{background:url(gifs/bg-line.png) repeat-x; background-position:0px -60px;}
+
+/*for border color*/
+.bgclor
+{
+border:3px solid #004AC1;
+border-top:1px solid #004AC1;
+background-color:#ffffff;
+}
+
+
+/*for line*/
+
+
+
+.hand
+{
+cursor:pointer;
+}
+
+
+
+.image_div
+{
+height:500px;
+vertical-align:top;
+width:500px;
+overflow:auto;
+margin-bottom:2px;
+}
+
+
+.doff
+{
+display:none;
+}
+
+
+.don
+{
+display:block;
+}
+
+.call{font:13px arial;line-height:17px;padding:0px 0px 5px 10px;} 
+.call a{color:#0000ff;text-decoration:underline; background:url('gifs/phone.gif') no-repeat; padding:0px 15px 0px 20px;}
+.call a.s{color:#0000ff;text-decoration:underline; background:url('gifs/sms2.gif') no-repeat; padding:0px 0px 0px 20px;}
+.call a:hover{color:#FF0000;text-decoration:none;}
